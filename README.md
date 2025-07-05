@@ -65,4 +65,16 @@ clinical healthcare experience to AI development
 🌍 Multilingual: English, Swahili (native), French (learning)
 🚀 Passionate about using technology to make mental health support more accessible and effective
 
+🎨 Current Focus Areas
+graph TD
+    A[AI & Machine Learning] --> B[Emotional Intelligence]
+    A --> C[Therapeutic Applications]
+    D[Full-Stack Development] --> E[React/TypeScript]
+    D --> F[Node.js/Python]
+    G[Healthcare Technology] --> H[Digital Therapeutics]
+    G --> I[Clinical Integration]
+    B --> J[Mental Wellness Platforms]
+    C --> J
+    H --> J
+
 "Building technology that understands, supports, and enhances human emotional well-being through responsible AI innovation."
