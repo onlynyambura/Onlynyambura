@@ -18,4 +18,51 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=onlynyambura&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🎯 What I'm Building
+🧠 Emotional Intelligence AI - Creating AI systems that understand and support human emotional development
+📊 Behavioral Analytics - Data-driven insights for neurodiversity and mental wellness
+🏥 Healthcare Technology - Bridging clinical care experience with innovative tech solutions
+🎓 Educational Platforms - AI-powered learning systems for complex technology adoption
+🤝 Looking to Collaborate On
+
+Mental health technology and digital therapeutics projects
+Responsible AI development for healthcare applications
+Open source tools for neurodiversity and accessibility
+Research in emotional intelligence and therapeutic AI systems
+
+💬 Ask Me About
+
+Building AI systems for mental health and wellness
+Full-stack development with modern JavaScript/TypeScript
+Clinical healthcare experience and technology integration
+Large-scale technology implementation and training (12,000+ users)
+Transitioning from traditional tech roles to AI innovation
+
+📫 How to Reach Me
+
+🌐 Portfolio: metawellnessai.com
+🤖 AI Platform: inkandshadowtales.com
+💼 LinkedIn: linkedin.com/in/eva-kagai
+📧 Email: info@inkandshadowtales.com
+📝 Blog: blog.inkandshadowtales.com
+
+🏆 Featured Projects
+🎭 AxisGPT - Emotional Intelligence AI
+Advanced conversational AI for shadow work, emotional integration, and therapeutic support. Built with React, TypeScript, and OpenAI GPT-4.
+📈 Focus Flow - ADHD Analytics Platform
+Behavioral data platform helping ADHD individuals optimize productivity through AI-driven insights and personalized recommendations.
+🌐 Professional Portfolio
+Modern React portfolio showcasing the intersection of technology, AI, and human wellness.
+username=onlynyambura&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+✍️ Random Dev Quote
+Show Image
+🔝 Top Contributed Repo
+Show Image
+🌟 Fun Facts
+clinical healthcare experience to AI development
+🎯 Trained 12,000+ professionals in complex technology systems across international contexts
+🧠 Pioneer in emotional intelligence AI and therapeutic technology applications
+🌍 Multilingual: English, Swahili (native), French (learning)
+🚀 Passionate about using technology to make mental health support more accessible and effective
+
+"Building technology that understands, supports, and enhances human emotional well-being through responsible AI innovation."
