@@ -23,6 +23,7 @@
 📊 Behavioral Analytics - Data-driven insights for neurodiversity and mental wellness
 🏥 Healthcare Technology - Bridging clinical care experience with innovative tech solutions
 🎓 Educational Platforms - AI-powered learning systems for complex technology adoption
+
 🤝 Looking to Collaborate On
 
 Mental health technology and digital therapeutics projects
@@ -51,13 +52,7 @@ Transitioning from traditional tech roles to AI innovation
 Advanced conversational AI for shadow work, emotional integration, and therapeutic support. Built with React, TypeScript, and OpenAI GPT-4.
 📈 Focus Flow - ADHD Analytics Platform
 Behavioral data platform helping ADHD individuals optimize productivity through AI-driven insights and personalized recommendations.
-🌐 Professional Portfolio
-Modern React portfolio showcasing the intersection of technology, AI, and human wellness.
-username=onlynyambura&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-✍️ Random Dev Quote
-Show Image
-🔝 Top Contributed Repo
-Show Image
+
 🌟 Fun Facts
 clinical healthcare experience to AI development
 🎯 Trained 12,000+ professionals in complex technology systems across international contexts
@@ -65,16 +60,5 @@ clinical healthcare experience to AI development
 🌍 Multilingual: English, Swahili (native), French (learning)
 🚀 Passionate about using technology to make mental health support more accessible and effective
 
-🎨 Current Focus Areas
-graph TD
-    A[AI & Machine Learning] --> B[Emotional Intelligence]
-    A --> C[Therapeutic Applications]
-    D[Full-Stack Development] --> E[React/TypeScript]
-    D --> F[Node.js/Python]
-    G[Healthcare Technology] --> H[Digital Therapeutics]
-    G --> I[Clinical Integration]
-    B --> J[Mental Wellness Platforms]
-    C --> J
-    H --> J
 
 "Building technology that understands, supports, and enhances human emotional well-being through responsible AI innovation."
